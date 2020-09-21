@@ -74,9 +74,9 @@ const ATB = (props) => {
                                         <p>
                                             Some families have one or two secrets that are buried for decades. 
                                             Once they are unveiled, happy endings take place. On the other hand, 
-                                            some families have one or two dark secrets that stem from their lies, j
-                                            ealousy, or criminal acts. Once they are forcefully unveiled, they face criminal charges 
-                                            as a result. “What goes around comes around” comes true in life. 
+                                            some families have one or two dark secrets that stem from their lies, 
+                                            jealousy, or criminal acts. Once they are forcefully unveiled, they face 
+                                            criminal charges as a result. “What goes around comes around” comes true in life.
                                         </p>
                                     `,
 

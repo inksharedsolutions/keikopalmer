@@ -28,8 +28,8 @@ const MidBook = (props) => {
 
                             <p>
                                 A mysterious family tragedy tears loved ones apart for nearly two decades.
-                                The criminals who meticulously plan the grand larceny and the airplane crash
-                                almost get away murder until the incriminating evidence appears.
+                                The criminals who meticulously plan the grand larceny and the airplane crash almost
+                                get away with murder—until the incriminating evidence appears.
                             </p>
 
                             <button className="btn-book-featured">
