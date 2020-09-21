@@ -36,17 +36,16 @@ const ATB = (props) => {
                         <BookInfo
                             data={{
                                 title: `Delayed Justice `,
-                                spanFirst: `-Keiko Palmer`,
+                                spanFirst: ``,
                                 imgSrc: Book1,
                                 id: '',
                                 content:
                                     `
                                         <p>
-                                            A mysterious family tragedy tears loved ones apart for nearly two decades.
-                                            The criminals who meticulously plan the grand larceny and the airplane crash
-                                            almost get away murder--until the incriminating evidence appears. The family
-                                            reunite and lost fortune is about the surface. It won't be too long before Delayed
-                                            Justice is served on a cold platter.
+                                            A mysterious family tragedy tears loved ones apart for nearly two decades. 
+                                            The criminals who meticulously plan the grand larceny and the airplane crash almost 
+                                            get away with murder—until the incriminating evidence appears. The family reunite and lost 
+                                            fortune is about to surface. It won’t be too long before Delayed Justice is served on a cold platter. 
                                         </p> 
 
                                     `,
@@ -67,17 +66,17 @@ const ATB = (props) => {
                         <BookInfo
                             data={{
                                 title: `Family Secrets`,
-                                spanFirst: `-Keiko Palmer`,
+                                spanFirst: ``,
                                 imgSrc: Book2,
                                 id: '',
                                 content:
                                     `
                                         <p>
-                                          Some families have one or two secrets that are buried for decades. Once they 
-                                          are unveiled, happy endings take place. On the other hand, some familiies have 
-                                          one or two dark secrets that stem from their lies, jealousy, or criminal acts. 
-                                          Once they are forcefully unveiled, they face criminal charges as a result. "What goes
-                                          around comes around" comes true in life.
+                                            Some families have one or two secrets that are buried for decades. 
+                                            Once they are unveiled, happy endings take place. On the other hand, 
+                                            some families have one or two dark secrets that stem from their lies, j
+                                            ealousy, or criminal acts. Once they are forcefully unveiled, they face criminal charges 
+                                            as a result. “What goes around comes around” comes true in life. 
                                         </p>
                                     `,
 

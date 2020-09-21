@@ -29,9 +29,7 @@ const MidBook = (props) => {
                             <p>
                                 A mysterious family tragedy tears loved ones apart for nearly two decades.
                                 The criminals who meticulously plan the grand larceny and the airplane crash
-                                almost get away murder--until the incriminating evidence appears. The family
-                                reunite and lost fortune is about the surface. It won't be too long before Delayed
-                                Justice is served on a cold platter.
+                                almost get away murder until the incriminating evidence appears.
                             </p>
 
                             <button className="btn-book-featured">

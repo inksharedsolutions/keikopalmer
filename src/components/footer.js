@@ -23,8 +23,8 @@ const Footer = () => {
                         </h1>
 
                         <p>
-                            Keiko Palmer loves to hear from readers. You can reach him via email.
-                            Feel free to send questions about writing, him works, interviews
+                            Keiko Palmer loves to hear from readers. You can reach her via email.
+                            Feel free to send questions about writing, her works, interviews
                             and other publicity matters.
                         </p>
 
@@ -32,7 +32,7 @@ const Footer = () => {
                             <ul>
 
                                 <li>
-                                    <a href="https://www.stratton-press.com/"
+                                    <a href="https://www.facebook.com/StrattonPressInc/"
                                         target="_blank"
                                         rel="noreferrer">
                                         <FontAwesomeIcon
